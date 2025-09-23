@@ -13,14 +13,9 @@ This repo compares two text groups—song lyrics and Twitter bios—for Cher and
 
 ## Data
 
-expected layout (set as data_location)
-<M1 Results>/
-├─ lyrics/
-│  ├─ cher/*.txt
-│  └─ robyn/*.txt
-└─ twitter/
-   ├─ cher_followers_data.txt
-   └─ robynkonichiwa_followers_data.txt
+    * data_location = "<path-to>/M1 Assignment Data/M1 Results"
+    * twitter_folder = "twitter/"
+    * lyrics_folder  = "lyrics/"
 
 ## Environment & Requirements
 
