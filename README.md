@@ -1,4 +1,4 @@
-## ADS 509: Module 3- Group Comparison (Cher vs. Robyn)
+# Group Comparison (Cher vs. Robyn)
 
 ## Overview
 This repo compares two text groups—song lyrics and Twitter bios—for Cher and Robyn.
